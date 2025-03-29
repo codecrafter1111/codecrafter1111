@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabaht kumar yadav</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar Yadav</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecrafter1111&label=Profile%20views&color=0e75b6&style=flat" alt="codecrafter1111" /> </p>
