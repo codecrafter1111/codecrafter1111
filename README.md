@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecrafter1111" alt="codecrafter1111" /></a> </p>
 
-- 🔭 I’m currently working on **NextStepEd**
+- 🔭 I’m currently working on **ERP system of my college**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **HTML ,CSS ,JS, React,Gsap,Lenis**
 
